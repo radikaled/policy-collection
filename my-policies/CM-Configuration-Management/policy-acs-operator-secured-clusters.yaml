@@ -57,7 +57,7 @@ spec:
                 name: rhacs-operator
                 source: redhat-operators
                 sourceNamespace: openshift-marketplace
-                startingCSV: rhacs-operator.v3.63.0
+                startingCSV: rhacs-operator.v3.65.1
   - objectDefinition:
       apiVersion: policy.open-cluster-management.io/v1
       kind: ConfigurationPolicy
